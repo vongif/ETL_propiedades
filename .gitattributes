@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+ar_propierties.csv filter=lfs diff=lfs merge=lfs -text
+cleaned_ar_propierties.csv filter=lfs diff=lfs merge=lfs -text
+
